@@ -1,6 +1,6 @@
 # API 3º Semestre - Banco de Dados
 
-<center> <img src="https://user-images.githubusercontent.com/18652465/111547833-88631a00-8758-11eb-863c-ccf1e6e93f39.png"> </center>
+<p align="center"> <img src="https://user-images.githubusercontent.com/18652465/111547833-88631a00-8758-11eb-863c-ccf1e6e93f39.png"> </p>
 
 ### Integrantes
 <a  href="https://www.linkedin.com/in/rodrigo-am%C3%A2ncio-do-prado-ten%C3%B3rio-a56641174"> <img src="https://img.shields.io/badge/Rodrigo%20Amancio%20--%20Scrum%20Master-Linkedin-blue"></a> <br>
