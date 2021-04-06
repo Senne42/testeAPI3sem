@@ -18,9 +18,9 @@
 - Sabendo disso, a fim de otimizar essas limitações de forma simplificada, o Trace Finder poder-se-á ser utilizado para construção de uma interface limpa e automatizada. O **Trace Finder** busca otimizar os processos, como a geração automática de LEP, contêm um sistema de autenticação ordinário e possibilita o uso de tags utilizadas para agrupamento e identificação.
 
 
- - [👨‍💻 User Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
-- [📏 Wireframes](https://github.com/MaXximiles/API-3SEM/tree/main/Wireframes)
-- [📃 Documentação](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
+	- [👨‍💻 User Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
+	- [📏 Wireframes](https://github.com/MaXximiles/API-3SEM/tree/main/Wireframes)
+	- [📃 Documentação](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
 <h1> </h1>
 
 ### Sprint 1
