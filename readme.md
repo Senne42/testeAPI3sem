@@ -7,13 +7,6 @@
 
 # User Story Cards
 
-<h1 align="center"> <img src="https://github.com/MaXximiles/API-3SEM/blob/main/User%20Story%20Cards/StoryCard1.png?raw=true" width="350"></h1>
-<h1 align="center"> <img src="https://github.com/MaXximiles/API-3SEM/blob/main/User%20Story%20Cards/StoryCard2.png?raw=true" width="350"></h1>
-<h1 align="center"> <img src="https://github.com/MaXximiles/API-3SEM/blob/main/User%20Story%20Cards/StoryCard3.png?raw=true" width="350"></h1>
-<h1 align="center"> <img src="https://github.com/MaXximiles/API-3SEM/blob/main/User%20Story%20Cards/StoryCard4.png?raw=true" width="350"></h1>
-<h1 align="center"> <img src="https://github.com/MaXximiles/API-3SEM/blob/main/User%20Story%20Cards/StoryCard5.png?raw=true" width="350"></h1>
-<h1 align="center"> <img src="https://github.com/MaXximiles/API-3SEM/blob/main/User%20Story%20Cards/StoryCard6.png?raw=true" width="350"></h1>
-<h1 align="center"> <img src="https://github.com/MaXximiles/API-3SEM/blob/main/User%20Story%20Cards/StoryCard7.png?raw=true" width="350"></h1>
-<h1 align="center"> <img src="https://github.com/MaXximiles/API-3SEM/blob/main/User%20Story%20Cards/StoryCard8.png?raw=true" width="350"></h1>
+<h1 align="center"> <img src="https://github.com/MaXximiles/API-3SEM/blob/main/User%20Story%20Cards/StoryFull.png?raw=true" width="350"></h1>
 
 
