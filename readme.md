@@ -18,7 +18,7 @@
 
 ### User Story Cards
 
-<center>  <img src="https://github.com/MaXximiles/API-3SEM/blob/main/User%20Story%20Cards/StoryFull.png?raw=true" width="350"> </center>
+<p align="center"> <img src="https://github.com/MaXximiles/API-3SEM/blob/main/User%20Story%20Cards/StoryFull.png?raw=true" width="350"> </p>
 
  - [👨‍💻 User Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
 - [📏 Wireframes](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
@@ -31,16 +31,17 @@ Na primeira Sprint foi desenvolvido bla bla
 <h1> </h1>
 
 ### Sprint 2
-<center> ⚠ EM DE DESENVOLVIMENTO ⚠ </center>
+
+<p align="center"> ⚠ EM DE DESENVOLVIMENTO ⚠ </p>
 <h1> </h1>
 
 ### Sprint 3
 
-<center> ⚠ EM DE DESENVOLVIMENTO ⚠ </center>
+<p align="center"> ⚠ EM DE DESENVOLVIMENTO ⚠ </p>
 <h1> </h1>
 
 ### Sprint 4
 
-<center> ⚠ EM DE DESENVOLVIMENTO ⚠ </center>
+<p align="center"> ⚠ EM DE DESENVOLVIMENTO ⚠ </p>
 <h1> </h1>
 
