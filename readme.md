@@ -29,6 +29,7 @@
 <h1> </h1>
 
 ### Sprints
+<p>
        <table>
               <thead>
                      <th width=100px>Entregas</th>
@@ -63,7 +64,7 @@
                      </tr>
               </tbody>
        </table>
-
+</p>
 ### Sprint 1
 - Na primeira sprint tivemos como objetivo a apresentação inicial dos Wireframes e Story Cards para aprovação do cliente.
 
