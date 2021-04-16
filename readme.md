@@ -65,6 +65,7 @@
               </tbody>
        </table>
 </p>
+
 ### Sprint 1
 - Na primeira sprint tivemos como objetivo a apresentação inicial dos Wireframes e Story Cards para aprovação do cliente.
 
