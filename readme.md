@@ -19,8 +19,12 @@
 
 
 	- [👨‍💻 User Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
+		-O user story card tem por objetivo bla bla
+	
 	- [📏 Wireframes](https://github.com/MaXximiles/API-3SEM/tree/main/Wireframes)
+		-O user story card tem por objetivo bla bla
 	- [📃 Documentação](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
+		- balalalalal
 <h1> </h1>
 
 ### Sprint 1
