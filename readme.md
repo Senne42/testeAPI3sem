@@ -1,4 +1,5 @@
 
+
 # API 3º Semestre - Banco de Dados
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/18652465/111547833-88631a00-8758-11eb-863c-ccf1e6e93f39.png"> </p>
@@ -19,12 +20,12 @@
 
 
 	- [👨‍💻 User Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
-		-O user story card tem por objetivo bla bla
+		-  O user story card tem por objetivo bla bla
 	
 	- [📏 Wireframes](https://github.com/MaXximiles/API-3SEM/tree/main/Wireframes)
-		-O user story card tem por objetivo bla bla
+		- O wireframe tem por objetivo bla bla
 	- [📃 Documentação](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
-		- balalalalal
+		- A documentação tem por objetivo bla bla
 <h1> </h1>
 
 ### Sprint 1
