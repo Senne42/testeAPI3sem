@@ -28,7 +28,7 @@
 		- A documentação tem por objetivo bla bla
 <h1> </h1>
 
-<h2>Sprints</h2>
+### Sprints
        <table>
               <thead>
                      <th width=100px>Entregas</th>
