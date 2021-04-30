@@ -93,3 +93,8 @@ Na segunda sprint após feedback do cliente, resolvemos pendências e reformulam
 <p align="center"> ⚠ EM DE DESENVOLVIMENTO ⚠ </p>
 <h1> </h1>
 
+<details><summary>Teste de DropDown</summary>
+- Lista 1
+  - Lista 1.1
+
+</details>
