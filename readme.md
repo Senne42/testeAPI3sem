@@ -1,3 +1,56 @@
+<h2>Sprints</h2>
+       <table>
+              <thead>
+                     <th width=150px>Entregas</th>
+                     <th width=100%>Descrições</th>
+                     <th width=100px>Links</th>
+              </thead>
+              <tbody>
+                     <tr>
+                            <td align=center>Sprint 1<br>08/03/2021 a 28/03/2021</td>
+                            <td > <p align=center>
+ - [x] Criação dos User Stories
+ - [x] Criação dos Wireframes
+ - [x]  Criação do acesso ao sistema através de login e senha do usuário
+ - [x] Integração da parte web com a API              
+                            </td>
+                            <td><p><a href="https://github.com/MaXximiles/API-3SEM#sprint-1">Ver mais...</a></p></td>
+                     </tr>
+                     <tr>
+                            <td align=center>Sprint 2<br>29/09/2021 a 18/04/2021</td>
+                            <td> <p align=center>
+- [x] Inserção do Modulo Codelist
+- [x] Modulo Traço Documentos
+- [x] Atualização do banco de dados
+                            <p align=center>                          
+                            </p>
+                            </td>
+                            <td><p><a href="https://github.com/MaXximiles/API-3SEM#sprint-2">Ver mais... </a></p></td>
+                     </tr>
+                     <tr>
+                            <td align=center>Sprint 3<br>26/04/2021 a 17/05/2021</td>
+                            <td> <p align=center>
+- [x] Manipulação de diretórios
+- [x] Manipulação de arquivos
+- [x] LEP automática
+- [x] Implementação de tag
+- [x] Versionamento do Banco de Dados
+                      <p align=center>                          
+                      </p>
+                      </td>
+                            <td><p><a href="https://github.com/MaXximiles/API-3SEM#sprint-3">Ver mais... </a></p></td>
+                     </tr>
+                      <tr>
+                            <td align=center>Sprint 4<br>17/05/2021 a 05/06/2021</td>
+                            <td> <p align=center> 
+- [ ] Administração de usuários
+- [ ] Filtrar documentos *Full* e *Delta* </td>
+                            <td><p><a href="https://github.com/MaXximiles/API-3SEM#sprint-4">Ver mais... </a></p></td>
+                     </tr>
+              </tbody>
+       </table>
+
+
 
 
 # API 3º Semestre - Banco de Dados
